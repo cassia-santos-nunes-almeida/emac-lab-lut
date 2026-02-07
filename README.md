@@ -4,7 +4,7 @@
 
 Welcome to the interactive laboratory for the **Electromagnetism & Circuit Analysis** course. This application is designed to bridge the gap between theoretical physics and circuit analysis using the s-domain.
 
-### 🚀 [Launch the Interactive Lab](INSERT_YOUR_GITHUB_PAGES_URL_HERE)
+### 🚀 [Launch the Interactive Lab][(INSERT_YOUR_GITHUB_PAGES_URL_HERE)](https://cassia-santos-nunes-almeida.github.io/emac-lab-lut/)
 
 ---
 
